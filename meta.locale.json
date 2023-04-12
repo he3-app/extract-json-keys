@@ -1,112 +1,101 @@
 {
-  "zh-cn": {
-    "$name": "He3 Demo Tool",
-    "$description": "He3 Demo Tool",
-    "$keywords": [
-      "idn",
-      "punycode",
-      "encode",
-      "domain"
-    ]
-  },
-  "zh-tw": {
-    "$name": "He3 Demo Tool",
-    "$description": "He3 Demo Tool",
-    "$keywords": [
-      "idn",
-      "punycode",
-      "encode",
-      "domain"
-    ]
-  },
   "en": {
-    "$name": "He3 Demo Tool",
-    "$description": "He3 Demo Tool",
+    "$name": "Extract JSON Keys",
+    "$description": "Extract JSON Keys",
     "$keywords": [
-      "idn",
-      "punycode",
-      "encode",
-      "domain"
-    ]
-  },
-  "es": {
-    "$name": "He3 Demo Tool",
-    "$description": "He3 Demo Tool",
-    "$keywords": [
-      "idn",
-      "punycode",
-      "encode",
-      "domain"
-    ]
-  },
-  "ja": {
-    "$name": "He3 Demo Tool",
-    "$description": "He3 Demo Tool",
-    "$keywords": [
-      "idn",
-      "punycode",
-      "encode",
-      "domain"
-    ]
-  },
-  "ko": {
-    "$name": "He3 Demo Tool",
-    "$description": "He3 Demo Tool",
-    "$keywords": [
-      "idn",
-      "punycode",
-      "encode",
-      "domain"
+      "extract",
+      "keys",
+      "json"
     ]
   },
   "de": {
-    "$name": "He3 Demo Tool",
-    "$description": "He3 Demo Tool",
+    "$name": "Extrahieren Sie JSON-Schlüssel",
+    "$description": "Extrahieren Sie JSON-Schlüssel",
     "$keywords": [
-      "idn",
-      "punycode",
-      "encode",
-      "domain"
+      "Extrakt",
+      "Schlüssel",
+      "json"
     ]
   },
-  "fr": {
-    "$name": "He3 Demo Tool",
-    "$description": "He3 Demo Tool",
+  "ko": {
+    "$name": "JSON 키 추출",
+    "$description": "JSON 키 추출",
     "$keywords": [
-      "idn",
-      "punycode",
-      "encode",
-      "domain"
+      "발췌",
+      "열쇠",
+      "json"
     ]
   },
-  "it": {
-    "$name": "He3 Demo Tool",
-    "$description": "He3 Demo Tool",
+  "zh-cn": {
+    "$name": "提取 JSON 键",
+    "$description": "提取 JSON 键",
     "$keywords": [
-      "idn",
-      "punycode",
-      "encode",
-      "domain"
+      "提炼",
+      "钥匙",
+      "JSON"
     ]
   },
-  "ru": {
-    "$name": "He3 Demo Tool",
-    "$description": "He3 Demo Tool",
+  "ja": {
+    "$name": "JSON キーの抽出",
+    "$description": "JSON キーの抽出",
     "$keywords": [
-      "idn",
-      "punycode",
-      "encode",
-      "domain"
+      "エキス",
+      "キー",
+      "json"
     ]
   },
   "pt": {
-    "$name": "He3 Demo Tool",
-    "$description": "He3 Demo Tool",
+    "$name": "Extrair chaves JSON",
+    "$description": "Extrair chaves JSON",
     "$keywords": [
-      "idn",
-      "punycode",
-      "encode",
-      "domain"
+      "extrair",
+      "chaves",
+      "json"
+    ]
+  },
+  "es": {
+    "$name": "Extraer claves JSON",
+    "$description": "Extraer claves JSON",
+    "$keywords": [
+      "extracto",
+      "llaves",
+      "json"
+    ]
+  },
+  "zh-tw": {
+    "$name": "提取 JSON 鍵",
+    "$description": "提取 JSON 鍵",
+    "$keywords": [
+      "提煉",
+      "鑰匙",
+      "JSON"
+    ]
+  },
+  "it": {
+    "$name": "Estrai chiavi JSON",
+    "$description": "Estrai chiavi JSON",
+    "$keywords": [
+      "estratto",
+      "chiavi",
+      "json"
+    ]
+  },
+  "ru": {
+    "$name": "Извлечь ключи JSON",
+    "$description": "Извлечь ключи JSON",
+    "$keywords": [
+      "извлекать",
+      "ключи",
+      "json"
+    ]
+  },
+  "fr": {
+    "$name": "Extraire les clés JSON",
+    "$description": "Extraire les clés JSON",
+    "$keywords": [
+      "extrait",
+      "clés",
+      "json"
     ]
   }
 }

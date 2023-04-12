@@ -7,25 +7,24 @@
   },
   "mode": "production",
   "he3": {
-    "name": "He3 Demo Tool",
-    "id": "he3-demo-tool",
+    "name": "Extract JSON Keys",
+    "id": "extract-json-keys",
     "icon": "block-outlined",
     "version": "0.0.1",
-    "description": "He3 Demo Tool",
+    "description": "Extract JSON Keys",
     "relatedToolId": [],
     "isPublic": true,
     "category": [
-      "encode"
+      "json"
     ],
     "keywords": [
-      "idn",
-      "punycode",
-      "encode",
-      "domain"
+      "extract",
+      "keys",
+      "json"
     ]
   },
   "dependencies": {
-    "punycode": "^2.3.0",
+    "@he3-kit/utils": "latest",
     "vue": "^3.2.45",
     "vue-i18n": "^9.2.2"
   },
