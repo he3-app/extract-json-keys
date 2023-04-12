@@ -1,101 +1,62 @@
 {
-  "en": {
-    "$name": "Extract JSON Keys",
-    "$description": "Extract JSON Keys",
-    "$keywords": [
-      "extract",
-      "keys",
-      "json"
-    ]
-  },
-  "de": {
-    "$name": "Extrahieren Sie JSON-Schlüssel",
-    "$description": "Extrahieren Sie JSON-Schlüssel",
-    "$keywords": [
-      "Extrakt",
-      "Schlüssel",
-      "json"
-    ]
-  },
-  "ko": {
-    "$name": "JSON 키 추출",
-    "$description": "JSON 키 추출",
-    "$keywords": [
-      "발췌",
-      "열쇠",
-      "json"
-    ]
-  },
   "zh-cn": {
-    "$name": "提取 JSON 键",
-    "$description": "提取 JSON 键",
-    "$keywords": [
-      "提炼",
-      "钥匙",
-      "JSON"
-    ]
-  },
-  "ja": {
-    "$name": "JSON キーの抽出",
-    "$description": "JSON キーの抽出",
-    "$keywords": [
-      "エキス",
-      "キー",
-      "json"
-    ]
-  },
-  "pt": {
-    "$name": "Extrair chaves JSON",
-    "$description": "Extrair chaves JSON",
-    "$keywords": [
-      "extrair",
-      "chaves",
-      "json"
-    ]
-  },
-  "es": {
-    "$name": "Extraer claves JSON",
-    "$description": "Extraer claves JSON",
-    "$keywords": [
-      "extracto",
-      "llaves",
-      "json"
-    ]
+      "$name": "提取 JSON Key",
+      "$description": "从 JSON 对象中提取 Key 列表",
+      "$keywords": ["JSON","提取","Key"]
   },
   "zh-tw": {
-    "$name": "提取 JSON 鍵",
-    "$description": "提取 JSON 鍵",
-    "$keywords": [
-      "提煉",
-      "鑰匙",
-      "JSON"
-    ]
+      "$name": "提取 JSON Key",
+      "$description": "從 JSON 物件中提取 Key 列表",
+      "$keywords": ["JSON","提取","Key"]
   },
-  "it": {
-    "$name": "Estrai chiavi JSON",
-    "$description": "Estrai chiavi JSON",
-    "$keywords": [
-      "estratto",
-      "chiavi",
-      "json"
-    ]
+  "en": {
+      "$name": "Extract JSON Keys",
+      "$description": "Extracts a list of keys from a JSON object",
+      "$keywords": ["JSON","extract","key"]
+  },
+  "ja": {
+      "$name": "JSONキー抽出",
+      "$description": "JSONオブジェクトからキーのリストを抽出します",
+      "$keywords": ["JSON","抽出","キー"]
+  },
+  "ko": {
+      "$name": "JSON 키 추출",
+      "$description": "JSON 객체에서 키 목록을 추출합니다",
+      "$keywords": ["JSON","추출","키"]
   },
   "ru": {
-    "$name": "Извлечь ключи JSON",
-    "$description": "Извлечь ключи JSON",
-    "$keywords": [
-      "извлекать",
-      "ключи",
-      "json"
-    ]
+      "$name": "Извлечение ключей JSON",
+      "$description": "Извлекает список ключей из объекта JSON",
+      "$keywords": ["JSON","извлечение","ключ"]
+  },
+  "de": {
+      "$name": "JSON-Schlüssel extrahieren",
+      "$description": "Extrahiert eine Liste von Schlüsseln aus einem JSON-Objekt",
+      "$keywords": ["JSON","extrahieren","Schlüssel"]
+  },
+  "pt": {
+      "$name": "Extrair chaves JSON",
+      "$description": "Extrai uma lista de chaves de um objeto JSON",
+      "$keywords": ["JSON","extrair","chave"]
+  },
+  "es": {
+      "$name": "Extraer claves JSON",
+      "$description": "Extrae una lista de claves de un objeto JSON",
+      "$keywords": ["JSON","extraer","clave"]
   },
   "fr": {
-    "$name": "Extraire les clés JSON",
-    "$description": "Extraire les clés JSON",
-    "$keywords": [
-      "extrait",
-      "clés",
-      "json"
-    ]
+      "$name": "Extraire les clés JSON",
+      "$description": "Extrait une liste de clés à partir d'un objet JSON",
+      "$keywords": ["JSON","extraire","clé"]
+  },
+  "it": {
+      "$name": "Estrarre le chiavi JSON",
+      "$description": "Estrae un elenco di chiavi da un oggetto JSON",
+      "$keywords": ["JSON","estrarre","chiave"]
+  },
+  "zh": {
+      "$name": "提取 JSON Key",
+      "$description": "从 JSON 对象中提取 Key 列表",
+      "$keywords": ["JSON","提取","Key"]
   }
 }

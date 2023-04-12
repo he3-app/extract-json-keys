@@ -3,8 +3,7 @@ import { textTransformTool } from "@he3-kit/utils";
 const EXAMPLE_STR = `{
     "abc": "bcd",
     "hello": "world"
-}
-`;
+}`;
 
 const extractKeys = (str) => {
   try {

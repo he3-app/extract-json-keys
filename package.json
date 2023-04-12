@@ -10,7 +10,7 @@
     "name": "Extract JSON Keys",
     "id": "extract-json-keys",
     "icon": "block-outlined",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "Extract JSON Keys",
     "relatedToolId": [],
     "isPublic": true,
